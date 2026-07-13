@@ -71,5 +71,5 @@ Evolução do sistema cliente-servidor em **C** para suportar a atribuição con
    ./cliente
    ```
 
-👤 Autor
-Rodrigo Matias
+## 👤 Autor
+* Rodrigo Matias
